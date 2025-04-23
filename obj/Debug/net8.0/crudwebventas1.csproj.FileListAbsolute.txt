@@ -166,3 +166,4 @@ D:\yessi\crudwebventas1\obj\Debug\net8.0\refint\crudwebventas1.dll
 D:\yessi\crudwebventas1\obj\Debug\net8.0\crudwebventas1.pdb
 D:\yessi\crudwebventas1\obj\Debug\net8.0\crudwebventas1.genruntimeconfig.cache
 D:\yessi\crudwebventas1\obj\Debug\net8.0\ref\crudwebventas1.dll
+D:\yessi\crudwebventas1\obj\Debug\net8.0\crudwebventas1.sourcelink.json

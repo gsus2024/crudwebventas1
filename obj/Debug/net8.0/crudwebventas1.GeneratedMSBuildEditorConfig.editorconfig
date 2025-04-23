@@ -30,6 +30,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/yessi/crudwebventas1/Pages/Familias/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmFtaWxpYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/yessi/crudwebventas1/Pages/Familias/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmFtaWxpYXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
